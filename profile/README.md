@@ -1,4 +1,4 @@
-## BurnDAO
+## CosmoBurn
 
 Smart contract, frontend and backend repos for this project
 <!--
